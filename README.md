@@ -18,8 +18,6 @@ An AI-powered Smart Traffic Prediction and Monitoring System using Machine Learn
 * Streamlit
 * Scikit-learn
 * TensorFlow / Keras
-* OpenCV
-* YOLOv8
 * Folium
 * OpenWeather API
 
